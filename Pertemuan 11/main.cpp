@@ -14,7 +14,6 @@ int main()
    int n1;
    int n2;
    cout <<"Program Deret Fibonaci \n";
-   cout <<"Masukan nilai: ";
 
 
    n1 = 1;
