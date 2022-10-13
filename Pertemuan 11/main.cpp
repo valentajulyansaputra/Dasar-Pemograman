@@ -13,7 +13,7 @@ int main()
    int n;
    int n1;
    int n2;
-   cout <<"Program Deret Fibonaci \n";
+   cout <<"Program Deret Fibonaci 1-100: \n";
 
 
    n1 = 1;
